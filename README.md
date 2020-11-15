@@ -1,4 +1,4 @@
-# oracle-db-update_python
+# Invoke Rest APIs and update Oracle Database in Python
 
 ## Purpose
 It is to update fields in remote Oracle database with data returned from a Rest API server.
